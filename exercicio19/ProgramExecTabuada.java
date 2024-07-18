@@ -28,20 +28,4 @@ public class ProgramExecTabuada {
         leitor.close();
     }
 
-    // System.out.println();
-    // System.out.println("Divisão");
-    // for (int i = 1; i <= 10; i++) {
-    // int resultado = numero / i;
-
-    // System.out.println(numero + " / " + i + " = " + resultado);
-    // }
-
-    // System.out.println();
-    // System.out.println("SUBTRAÇÃO");
-    // for (int i = 1; i <= 10; i++) {
-    // int resultado = numero - i;
-
-    // System.out.println(numero + " - " + i + " = " + resultado);
-    // }
-
 }
