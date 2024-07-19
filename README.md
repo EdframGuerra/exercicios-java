@@ -78,7 +78,7 @@
 
 ### Fórmula: C = (5 * ( F-32) / 9)
 
-## 18 - Francisco tem 1,50m e cresce 2 centímetros por ano, enquanto Sara tem 1,10m e cresce 3 centímetros por ano. Faça um algoritmo que calcule e imprima na tela em quantos anos serão necessários para que SARA seja maior que FRANCISCO.
+## 18 - Francisco tem 1,50m e cresce 2 centímetros por ano, enquanto Sara tem 1,10m e cresce 3 centímetros por ano. Faça um algoritmo que calcule e imprima na tela em quantos anos serão necessários para que SARA seja maior que FRANCISCO.(ENUNCIADO ALTERADO);
 
 ## 19 - Faça um algoritmo que imprima na tela a tabuada de 1 até 10.
 
